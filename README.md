@@ -3,7 +3,7 @@ The dialog should be used inside an onPressed function.
 
     void dialogHeaderBodyFooter(BuildContext context,Color colorHeaderBackground,Widget title,Color colorClose,Widget body,List<Widget> inferiorButtons,double dialogHeight,double dialogWidth)
 
-    ![Image1 of App](example1.png)
+![Image1 of App](example1.png)
 
 ## Variables
 Variables needed to call a dialog.
